@@ -1,0 +1,1 @@
+word_list=["mazare", "paine", "televizor", "caine", "animale", "patrunjel"]
